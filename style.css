@@ -1,0 +1,130 @@
+body {
+    background: #f0eec8;
+    color: #096386;
+    font-family: 'Roboto', sans-serif;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+}
+.wrapper {
+    padding: 30px;
+    min-height: 1px;
+    overflow: auto;
+}
+.inner_wrapper{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+#left_section {
+    margin-right: 2%;
+    width: 28%;
+    float: left;
+    color: gray;
+}
+#left_section ul li img{
+    position: relative;
+    top: 6px;
+    width: 24px;
+    margin-right: 15px;
+}
+#left_section ul li{
+    margin-bottom: 10px;
+}
+#left_section ul{
+    margin-bottom: 50px; 
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray; 
+}
+figure{
+    position: relative;
+}
+figure img {
+    width: 100%;
+}
+figure h1{
+    position: absolute;
+    bottom: 20px;
+    background: #f0eec8;
+    padding: 5px 30px;
+    color: #00b7a8;
+}
+article h2 {
+    margin-bottom: 20px;
+}
+progress{
+    width: 100%
+}
+article h2 img{
+    position: relative;
+    top: 8px;
+    width: 36px;
+    margin-right: 15px;
+}
+#right_section {
+    width: 70%;
+    float: left;
+}
+nav{
+    margin-bottom: 20px;
+}
+nav>ul>li{
+    display: inline-block;
+}
+nav>ul>li>a{
+    color: white;
+    text-decoration: none;                 
+    display: block;
+    padding: 15px 20px;
+}
+nav>ul{
+    background: #0c084c;
+}
+nav>ul>li>a:hover{
+    background: #00b7a8;
+}
+#right_section h2{
+    margin-bottom: 40px;
+}
+#right_section article{
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+}
+#right_section article img{
+    position: relative;
+    top: 6px;
+    width: 24px;
+    margin-right: 15px;
+}
+article p{
+    color: gray;
+}
+.description{
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 22px;
+}
+footer{
+    padding: 30px;
+    text-align: center;
+    background: #00b7a8;
+}
+footer p>span{
+    font-size: 12px;
+}
