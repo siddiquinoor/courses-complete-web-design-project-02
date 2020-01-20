@@ -1,4 +1,4 @@
-Complete Web Design - From zero 2 Hero
+[Complete Web Design - From zero 2 Hero](https://github.com/siddiquinoor/courses/)
 --------------------------------------
 - Project - 02:
   - Repo: [link to Project - 02 Repo!](https://github.com/siddiquinoor/courses-complete-web-design-project-02)
